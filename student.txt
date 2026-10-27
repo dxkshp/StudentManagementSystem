@@ -1,2 +1,4 @@
 1|Rahul|Computer Science|A
 2|Priya|Information Technology|B
+3|Amit|Mechanical Engineering|B
+4|Sneha|Electronics|A
